@@ -10,7 +10,7 @@ title:            Poole
 tagline:          The Jekyll Butler
 url:              http://jensevers.github.io/poole/
 paginate:         1
-baseurl:          /poole/
+baseurl:          /jensevers.github.io-poole
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
